@@ -71,7 +71,7 @@ cloudpulse/
 yaml
 Copy code
 
----
+-----
 
 ## ▶️ Quick Start (Google Colab)
 Open [Google Colab](https://colab.research.google.com), paste the project code, then run:
