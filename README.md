@@ -19,7 +19,7 @@ Perfect for **learning cloud scaling strategies** and **DevOps monitoring fundam
 | Simulation  | Custom Classes | CloudResource + AutoScaler |
 | Platform    | Google Colab / Local | Works in both environments |
 
-----
+-----
 
 ## 🌐 Architecture
 **Flow**
