@@ -52,7 +52,7 @@ Perfect for **learning cloud scaling strategies** and **DevOps monitoring fundam
 yaml
 Copy code
 
-----
+------
 
 ## 📦 Repository Structure
 cloudpulse/
