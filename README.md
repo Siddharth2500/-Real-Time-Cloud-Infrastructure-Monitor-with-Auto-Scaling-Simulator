@@ -10,6 +10,9 @@ It mimics services like AWS Auto Scaling, Azure VM Scale Sets, and GCP Instance 
 
 Perfect for **learning cloud scaling strategies** and **DevOps monitoring fundamentals**.  
 
+
+---
+
 ## 🛠 Tech & Languages
 | Layer       | Tech           | Notes |
 |-------------|---------------|-------|
